@@ -8,4 +8,4 @@
 
 <h3 align="center">List Assist</h4>
 
-<h3 align="left">Project Description</h4>
+<h4 align="center">Vision Document</h4>
